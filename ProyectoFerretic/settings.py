@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'ferretic.apps.FerreticConfig',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
